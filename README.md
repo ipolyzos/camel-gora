@@ -9,6 +9,10 @@ _________                       .__              ________
 		                             Camel-Gora
 </pre>
 
+## Note :
+
+ This work has been contributed back to the Apache Software Foundation(ASF),
+you can find more information on the relevant [ticket](https://issues.apache.org/jira/browse/CAMEL-4817)
 
 ## Documentation : 
 
