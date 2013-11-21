@@ -71,6 +71,16 @@ public class GoraComponent extends DefaultComponent {
     }
 
     /**
+     *  {@inheritDoc}
+     */
+    @Override
+    protected void doStop() throws Exception {
+        if (dataStore != null) {
+            dataStore.close();
+        }
+    }
+
+    /**
      * {@inheritDoc}
      */
     @Override
