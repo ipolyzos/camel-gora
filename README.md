@@ -16,7 +16,7 @@ you can find more information on the relevant [ticket](https://issues.apache.org
 
 ## Documentation : 
 
-... Comming soon!
+  Current documentation can be found on the [Wiki](https://github.com/ipolyzos/camel-gora/wiki).
 
 ## Downloads :
 
